@@ -11,4 +11,4 @@ variables: Dd = disparo defensivo.
 Parametros :
 	posición con eje horizontal x(t) = x0 + vx t,
 	
-	gravedad = 9,81mts
+	gravedad = 9,81mts.
