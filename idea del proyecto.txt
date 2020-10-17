@@ -9,3 +9,6 @@ variables: Dd = disparo defensivo.
 	   Do = disparo ofensivo.
 	   rangoO= 0,05d (rango para que se detone el disparo ofensivo)
 Parametros :
+	posición con eje horizontal x(t) = x0 + vx t,
+	
+	gravedad = 9,81mts
