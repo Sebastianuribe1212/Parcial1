@@ -8,4 +8,4 @@ variables: Dd = disparo defensivo.
            rangod = 0,025 (será el rango para que los disparos defensivos sean efectivos)
 	   Do = disparo ofensivo.
 	   rangoO= 0,05d (rango para que se detone el disparo ofensivo)
-Parametros 
+Parametros :
