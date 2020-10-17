@@ -1,0 +1,2 @@
+Idea del proyecto, realizar un programa que simule los lanzamientos de un cañon ofensivo y defensivo para que ninguno de los cañones
+se vea afectado.
